@@ -10,4 +10,4 @@ Build tested with Dev-C++ and MingW64.
 
 ## Libraries
 
-Required libraries are included as .dll files for convenience.
+Allegro, pthreads and MingW64 libraries are required.
